@@ -67,11 +67,4 @@ Anyone who wants to donate something they can contribute here.
 - <b>About us:-</b>  
 If you feel like making any improvements or changes to this system, you can share your feed back here.
 
-<h3 align="center"> <b>SnapShot of the pages…!!!</b> </h3>  
-
-![picture alt](/SnapShot/Home.png "Home Page")  
-![picture alt](/SnapShot/BloodTips.png "Blood Tips")  
-![picture alt](/SnapShot/Contribute.png "Contribute")  
-![picture alt](/SnapShot/AboutUs.png "About Us")
-
 <h1><b>Author : Jinay Shah</b></h1>
