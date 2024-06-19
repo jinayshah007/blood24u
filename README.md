@@ -1,7 +1,7 @@
 # blood24u
 Hello,</br><b>Introduction :-</b>The main objective of this system is to provide opportunities to get blood, plasma and platelets by online registration to them who need blood during their permanent diseases.
 
-<h3 align="center"> <b>Which technology is used …???</b> </h3>  
+<h3 align="center"> <b>Technology</b> </h3>  
 
 -	HTML5
 -	CSS3
@@ -10,34 +10,34 @@ Hello,</br><b>Introduction :-</b>The main objective of this system is to provide
 -	Jsp
 - Java Servlet
 
-<h3 align="center"> <b>Which Software is needed …???</b> </h3>    
+<h3 align="center"> <b>Software</b> </h3>    
 
 -	Xampp / Wampp Server
 -	NetBeans IDE 
 
-<h3 align="center"> <b>How to Install the Software …???</b> </h3>  
+<h3 align="center"> <b>Installation of the Softwares</b> </h3>  
 
 -	Xampp Server  
 https://www.apachefriends.org/download.html  
 - NetBeans IDE  
 https://netbeans.org/downloads/8.2/rc/
 
-<h3 align="center"> <b>How to Import the Folder …???</b> </h3>  
+<h3 align="center"> <b>How to Import the Folder?</b> </h3>  
 
 - Open Project > web Folder > B24U_JSP_SourceFile > Web JSP File  
 - Open Project > src Folder > B24U_JSP_SourceFile > Java Servlet File
 
-<h3 align="center"> <b>How to Import the Database File ...??</b> </h3>  
+<h3 align="center"> <b>How to Import the Database File?</b> </h3>  
 
 - Open Browser > Search localhost/phpmyadmin >Click Create New Database > Database Name = b24u  
 - Open Browser > Search localhost/phpmyadmin > Click Import Button > Click ChooseFile Button > Go to Project Folder > Database >b24u.sql > Click Open Button
 
-<h3 align="center"> <b>How to run the Project …???</b> </h3>  
+<h3 align="center"> <b>How to run the Project?</b> </h3>  
 
 - Start Xampp/Wampp Server
 - Open Netbeans > Click Projects > Click Web Pages > Right click on index.jsp > Select Run File
                                                     
-<h3 align="center"> <b>Discuss about the pages…!!!</b> </h3>  
+<h3 align="center"> <b>Discuss about the pages!</b> </h3>  
 
 - <b>Home Page:-</b>  
 You will see the current donation camps, events and its posters.  
@@ -74,4 +74,4 @@ If you feel like making any improvements or changes to this system, you can shar
 ![picture alt](/SnapShot/Contribute.png "Contribute")  
 ![picture alt](/SnapShot/AboutUs.png "About Us")
 
-Author : Jinay Shah
+<h1><b>Author : Jinay Shah</b></h1>
